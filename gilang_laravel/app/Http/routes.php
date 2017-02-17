@@ -11,12 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('home');
-});
-Route::get('pengaduan', function () {
-    return view('pengaduan');
-});
-Route::get('login', function () {
-    return view('login');
-});
+Route::get('/', 'ViewController@index');
+Route::get('pengaduan', 'ViewController@pengaduan');
+Route::get('login', 'ViewController@login');

@@ -1,8 +1,9 @@
 @extends('template.index')
 @section('content')
+
 <div id="content">
 	Semua pengaduan:<br>
-	<table border="1">
+	<table border="2">
 		<tr>
 			<td align="center" width="120">Nama Lengkap</td>
 			<td align="center" width="100">No. Telpon</td>

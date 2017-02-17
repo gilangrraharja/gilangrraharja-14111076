@@ -1,1 +1,1 @@
-<center><div id="footer"> copyright gilangrraharja 14111076 @2017</div></center>
+<center><div id="footer"> Copyright - gilangRRaharja 14111076 @2017</div></center>
